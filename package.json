@@ -1,0 +1,28 @@
+{
+  "name": "kado-example",
+  "version": "1.0.0",
+  "description": "Creating a website with Kado",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./app.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bramey/kado-example.git"
+  },
+  "keywords": [
+    "Kado",
+    "Beginning",
+    "Website",
+    "Application"
+  ],
+  "author": "bramey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bramey/kado-example/issues"
+  },
+  "homepage": "https://github.com/bramey/kado-example#readme",
+  "dependencies": {
+    "kado": "^3.8.2"
+  }
+}
